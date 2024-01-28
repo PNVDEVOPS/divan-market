@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/divan-market/static/css/main.f86246df.css",
+    "main.js": "/divan-market/static/js/main.df06baa8.js",
+    "static/media/Logo.png": "/divan-market/static/media/Logo.c00c172f4d14fa311c33.png",
+    "static/media/footerlogo.png": "/divan-market/static/media/footerlogo.f126f01ad48fcf171f31.png",
+    "index.html": "/divan-market/index.html",
+    "static/media/getFetch.cjs": "/divan-market/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.f86246df.css.map": "/divan-market/static/css/main.f86246df.css.map",
+    "main.df06baa8.js.map": "/divan-market/static/js/main.df06baa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86246df.css",
+    "static/js/main.df06baa8.js"
+  ]
+}
